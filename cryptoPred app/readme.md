@@ -1,6 +1,6 @@
-<h5>
+<h2>
 CryptoPred App
-</h5>
+</h2>
 
 <p>
 this is the setup for compiling the cryptopred python file to a Desktop App (.exe) using extentions py2exe. <br>
