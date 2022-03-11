@@ -8,6 +8,4 @@ the dataset is directly fetched from Yahoo Finance using pandas_datareader accor
 
 </p>
 <br>
-<p>
-this project is inspired by a video from  youtuber NueralNine.
-</p>
+
