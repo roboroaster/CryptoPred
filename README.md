@@ -14,10 +14,15 @@ Streamlit-powered website in development: Stay tuned for an interactive platform
  ## Technology Stack
 
 Python
-pandas_datareader
-Neural networks (specific framework to be specified)
-Adam optimizer
-Streamlit (for website development)
+* mlpfinance (for importing yahoo finance)
+* pandas
+* numpy
+* tensorflow (Sequential model)
+* matplotlib (for visualizations)
+* pandas_datareader
+* Neural networks (LSTM)
+* Adam optimizer
+* Streamlit (for website development)
  ## Upcoming Features
 
 Predicted price graph for 'N' number of days: Visualize future price trajectories for enhanced decision-making.
