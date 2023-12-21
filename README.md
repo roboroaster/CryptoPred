@@ -30,9 +30,9 @@ Experimentation with different optimizers: Explore optimization techniques to fi
  ## Getting Started
 
 Clone this repository.
-Install dependencies (instructions to be provided).
-Run the prediction model (instructions to be provided).
-Access the website (once development is complete).
+*Install dependencies (instructions to be provided).
+*Run the prediction model (instructions to be provided).
+*Access the website (once development is complete).
 
  ## License
 
